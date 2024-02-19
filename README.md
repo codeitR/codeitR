@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my school project.
+- 🔭 I’m currently working on my school project.      
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on open source.
+- 👯 I’m looking to collaborate on open source.![codeitR's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeitR&show_icons=true&theme=radical)
 - 🤔 I’m looking for help with eslint.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![codeitR's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeitR&show_icons=true&theme=radical)
+
