@@ -1,11 +1,12 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;Nice+to+see+You!+&center=true&size=30"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;Nice+to+See+You!+&center=true&size=25"></a>
   <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
 </h1>
-<h4 align="center">
-  Welcome to my GitHub profile, I am Ramesh Ghimire, a frontend developer with minimal & sustinable approach for code side of UX/UI.
-</h4>
+<p align="center" style:font-size:20px; font-family:poppins;>
+   Welcome to my GitHub profile, I am Ramesh Ghimire, a frontend developer with minimal & sustinable approach for code side of UX/UI.
+   🔭 I’m currently working on my school project,🌱 learning  ReactRedux, TypeScript 🤔 & looking for collaborateion on open source/documentation, or thing leads to built strong front-end community 👯. 
+</p>
 <hr/>
 <h3 align="center">
   🔧 Tools & Technologies I Use 🚀 
