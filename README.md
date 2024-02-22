@@ -4,8 +4,8 @@
   <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
 </h2>
 <p align="center" style:font-size:20px; font-family:poppins;>
-   I am Ramesh Ghimire, a frontend developer with minimal & sustinable approach for code side of UX/UI.
-   🔭 I’m currently working on my school project,🌱 learning  ReactRedux, TypeScript 🤔 & looking for collaborateion on open source/documentation, or thing leads to built strong front-end community 👯. 
+   This is Ramesh Ghimire, frontend developer focus on simple & sustinable approach for code side of UX/UI.
+   🔭 I’m currently working on my school projects,🌱 learning  ReactRedux, TypeScript 🤔 & looking for collaborateion on open source/documentation, or thing leads to strong front-end community 👯. 
 </p>
 <hr/>
 <h3 align="center">
