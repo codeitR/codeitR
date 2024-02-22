@@ -1,9 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
-<p align="center">
-  <a href="https://github.com/codeitR">
-    <img src="https://img.shields.io/badge/GitHub-@codeitR-red?style=flat-square&logo=github"></a>
-</p>
-
+<h1 align="center">Hi There 👋 !</h1>
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!+&center=true&size=25"></a>
   <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></p>
@@ -43,8 +38,10 @@
 <hr>
 <h3 align="center"> 📫 Get in Touch 🔭</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramesh-ghimire-0aa504265/">
+ <a href="https://www.linkedin.com/in/ramesh-ghimire-0aa504265/">
      <img src="https://img.shields.io/badge/LinkedIn-Ramesh Ghimire-%23E34F26?style=flat-square&logo=linkedin"></a>
+     <a href="https://github.com/codeitR">
+    <img src="https://img.shields.io/badge/GitHub-@codeitR-blue?style=flat-square&logo=github"></a>
   <a href="mailto:ghimire.9@gmail.com">
     <img src="https://img.shields.io/badge/Email-ghimire.9%40gmail.com-%23E34F26?style=flat-square&logo=gmail">
   </a>
