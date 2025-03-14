@@ -4,6 +4,8 @@
    🔭 I’m currently learning 🌱 ReactRedux, TypeScript 🤔 & looking for collaborateion on open source/documentation, or thing leads to strong front-end community 👯. 
 </p>
 <hr/>
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <h3 align="center">
   🔧 Tools & Technologies I Use 🚀 
 </h3>
