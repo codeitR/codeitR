@@ -1,6 +1,6 @@
-<!-- Gradient header in the portfolio's indigo → pink colours -->
+<!-- Gradient wave in the portfolio's indigo → pink colours (decoration only) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=180&section=header&text=Hi,%20I'm%20Ramesh%20👋&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Front-end%20Developer%20·%20Oslo,%20Norway&descSize=18&descAlignY=56" alt="Hi, I'm Ramesh — Front-end Developer in Oslo, Norway" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=header" alt="" width="100%">
 </p>
 
 <!-- Photo with the spinning code-coloured ring, same as the portfolio -->
@@ -8,9 +8,8 @@
   <img src="assets/photo-ring.svg" alt="Ramesh Ghimire at his laptop" width="230">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=600&lines=I+build+for+the+web.;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Available+for+freelance+projects" alt="I build for the web. React · TypeScript · Tailwind CSS. Available for freelance projects.">
-</p>
+<h1 align="center">Hi, I'm Ramesh 👋</h1>
+<h3 align="center">Front-end Developer · Oslo, Norway · I build for the web.</h3>
 
 <p align="center">
   I love building responsive, accessible websites with React, TypeScript and Tailwind CSS,<br>
