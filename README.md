@@ -46,47 +46,6 @@ Front-end development at **Noroff** brought it all together. Today I mix a desig
   <img src="https://img.shields.io/badge/Netlify-18181b?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
 </p>
 
----
-
-### 🎓 Education
-
-| Programme | Where |
-|---|---|
-| **Front-end Development** | Noroff |
-| **Diploma in Chef Studies** | Hotel Bristol, Oslo |
-| **Bachelor's in Media Technology** | Kathmandu, Nepal |
-
----
-
-### 🚀 Things I've built
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://squareeye.netlify.app/"><img src="assets/work-1.jpg" alt="SquareEyes home page" width="100%"></a>
-      <h4>SquareEyes</h4>
-      <p>A movie streaming website where visitors browse films and pick something to watch.</p>
-      <a href="https://squareeye.netlify.app/">Live site</a> · <a href="https://github.com/codeitR/caschool">Code</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://quiet-stardust-3c2672.netlify.app/"><img src="assets/work-2.jpg" alt="Community Science Museum home page" width="100%"></a>
-      <h4>Community Science Museum</h4>
-      <p>An engaging, fully responsive museum website that encourages people to visit.</p>
-      <a href="https://quiet-stardust-3c2672.netlify.app/">Live site</a> · <a href="https://github.com/codeitR/codeca">Code</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://dreamandideas.netlify.app/"><img src="assets/work-3.jpg" alt="Dream &amp; Ideas blog home page" width="100%"></a>
-      <h4>Dream &amp; Ideas</h4>
-      <p>A blog for writers and tech enthusiasts. My first project exam at Noroff.</p>
-      <a href="https://dreamandideas.netlify.app/">Live site</a> · <a href="https://github.com/Noroff-FEU-Assignments/project-exam-1-codeitR">Code</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://codeitr.github.io/portofolio/"><b>See my full portfolio →</b></a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=100&section=footer" alt="" width="100%">
 </p>
