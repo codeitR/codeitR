@@ -4,11 +4,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Ramesh 👋</h1>
-<h3 align="center">Front-end Developer · Oslo, Norway · I build for the web.</h3>
+<h3 align="center">Front-end Developer · Oslo, Norway</h3>
 
 <p align="center">
-  I love building responsive, accessible websites with React, TypeScript and Tailwind CSS,<br>
-  with real care for the user experience.
+  <b>I build for the web.</b> I love building responsive, accessible websites with React, TypeScript and Tailwind CSS, with real care for the user experience.
 </p>
 
 <p align="center">
