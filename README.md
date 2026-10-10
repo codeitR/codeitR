@@ -22,16 +22,16 @@
 ### 🛠️ Tech I use
 
 <p>
-  <img src="https://img.shields.io/badge/React-f4f4f5?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React-f4f4f5?style=for-the-badge&logo=react&logoColor=087EA4" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-f4f4f5?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-f4f4f5?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-f4f4f5?style=for-the-badge&logo=tailwindcss&logoColor=0891B2" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/HTML-f4f4f5?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-f4f4f5?style=for-the-badge&logo=css&logoColor=663399" alt="CSS">
   <img src="https://img.shields.io/badge/Vite-f4f4f5?style=for-the-badge&logo=vite&logoColor=9135FF" alt="Vite">
   <img src="https://img.shields.io/badge/Git-f4f4f5?style=for-the-badge&logo=git&logoColor=F03C2E" alt="Git">
   <img src="https://img.shields.io/badge/Figma-f4f4f5?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
-  <img src="https://img.shields.io/badge/Netlify-f4f4f5?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
+  <img src="https://img.shields.io/badge/Netlify-f4f4f5?style=for-the-badge&logo=netlify&logoColor=0E9488" alt="Netlify">
 </p>
 
 <p align="center">
