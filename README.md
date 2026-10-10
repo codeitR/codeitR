@@ -19,18 +19,6 @@
 
 ---
 
-### 👨‍🍳 About me
-
-My path into code wasn't a straight line. It started in **Kathmandu** with a bachelor's degree in media technology, where I learned how design, media and technology come together to tell a story on screen.
-
-Then I moved to **Oslo** and trained as a chef at **Hotel Bristol**. The kitchen taught me things no classroom could: work clean, plan every step, keep calm under pressure and deliver on time — every single service.
-
-Front-end development at **Noroff** brought it all together. Today I mix a designer's eye with a chef's discipline to build fast, accessible websites.
-
-**Now I'm taking on freelance projects.** Need a new website, a landing page or a fresh look for an old one? Let's cook something great together. 🍳
-
----
-
 ### 🛠️ Tech I use
 
 <p>
