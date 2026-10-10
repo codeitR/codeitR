@@ -1,11 +1,6 @@
-<!-- Gradient wave in the portfolio's indigo → pink colours (decoration only) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=header" alt="" width="100%">
-</p>
-
 <!-- The cartoon from my original profile -->
 <p align="center">
-  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Animated stick-figure cartoon saying: I have done nothing productive all day" width="360">
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Animated stick-figure cartoon saying: I have done nothing productive all day" width="500">
 </p>
 
 <h1 align="center">Hi, I'm Ramesh 👋</h1>
