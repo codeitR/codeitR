@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=header" alt="" width="100%">
 </p>
 
-<!-- Photo with the spinning code-coloured ring, same as the portfolio -->
+<!-- The cartoon from my original profile -->
 <p align="center">
-  <img src="assets/photo-ring.svg" alt="Ramesh Ghimire at his laptop" width="230">
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Animated stick-figure cartoon saying: I have done nothing productive all day" width="360">
 </p>
 
 <h1 align="center">Hi, I'm Ramesh 👋</h1>
